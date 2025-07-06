@@ -49,3 +49,5 @@ int main() {
 # PR Merge: 2025-10-21 - fix/merge-7554
 
 # PR Merge: 2025-10-21 - feature/merge-8569
+
+# PR Merge: 2025-10-21 - refactor/merge-4126
