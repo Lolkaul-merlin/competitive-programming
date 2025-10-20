@@ -33,3 +33,5 @@ docker run -p 8080:8080 cmshub
 Support at [cmshub.run](https://cmshub.run)
 
 © 2025 cmshub Technologies
+
+# PR Merge: 2025-10-21 - enhancement/merge-4587
